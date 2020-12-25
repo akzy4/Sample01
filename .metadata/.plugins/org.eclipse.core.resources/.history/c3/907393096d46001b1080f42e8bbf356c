@@ -5,6 +5,6 @@
 <title>Spring入門結果ページ</title>
 </head>
 <body>
-<p>こんにちは、<span th:text="${name}">お名前</span>さん。。。</p>
+<p>こんにちは、<span th:text="${name}">お名前</span>さん。</p>
 </body>
 </html>
